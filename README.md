@@ -1,4 +1,6 @@
 # nodeadm
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froopakparikh%2Fnodeadm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Froopakparikh%2Fnodeadm?ref=badge_shield)
+
 
 Kubernetes node administration tool
 
@@ -47,3 +49,7 @@ networking:
     serviceSubnet: 172.1.0.0/24
     dnsDomain: testcluster.local
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froopakparikh%2Fnodeadm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Froopakparikh%2Fnodeadm?ref=badge_large)
